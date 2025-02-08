@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.BookStore" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/color_primary</item>
+        <item name="colorPrimaryDark">@color/color_secondary_bold</item>
+        <item name="colorAccent">@color/color_secondary</item>
+        <item name="android:textViewStyle">@style/MyTextViewStyle</item>
+
+    </style>
+</resources>
